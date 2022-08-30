@@ -1,3 +1,13 @@
 h1 {
     color: blueviolet;
+    text-align: center;
+}
+
+main {
+    max-width: 600px;
+    margin: auto;
+}
+
+main p {
+    border: dotted 2px hotpink;
 }
